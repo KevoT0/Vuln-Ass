@@ -15,60 +15,60 @@ This hands-on project highlights expertise in <b>vulnerability management, risk 
 
 # <b>Program Walkthrough</b>
 
-# <b> 1. Logging into Nessus </b>
+<b> 1. Logging into Nessus </b>
 <p align="center">
 <img src="https://i.imgur.com/cwu9wVe.png" height="80%" width="80%" alt="Logging into Nessus"/>
 
-# <b> 2. Setting Up Scanning Options<b>
+<b> 2. Setting Up Scanning Options<b>
 <p align="center">
 <img src="https://i.imgur.com/fe6ukRH.png" height="80%" width="80%" alt="Setting up scanning options"/>
 
-# <b> 3. Confirming Target IP Address for Nessus Scan</b>
+<b> 3. Confirming Target IP Address for Nessus Scan</b>
 <p align="center">
 <img src="https://i.imgur.com/dHntWAM.png" height="80%" width="80%" alt="Confirming Target IP Address"/>
 
-# <b>4. Running the Scan</b>
+<b>4. Running the Scan</b>
 <p align="center">
 <img src="https://i.imgur.com/Rbdg5u8.png" height="80%" width="80%" alt="Running the scan"/>
 
-# <b> 5. Scan Results </b>
+<b> 5. Scan Results </b>
 <p align="center">
 <img src="https://i.imgur.com/ecSsiHE.png" height="80%" width="80%" alt="Scan Results"/>
 
-# <b>6. Target Endpoint Viewed in Action1</b>
+<b>6. Target Endpoint Viewed in Action1</b>
 <p align="center">
 <img src="https://i.imgur.com/6P05Ucb.png" height="80%" width="80%" alt="Viewing endpoint in Action1"/>
 
-# <b>7. Identified Endpoint Vulnerabilities</b>
+<b>7. Identified Endpoint Vulnerabilities</b>
 <p align="center">
 <img src="https://i.imgur.com/tDiMlEX.png" height="80%" width="80%" alt="Endpoint vulnerabilities"/>
 
-# <b>8. Identifying the Vulnerability with the Highest CVSS Score</b>
+<b>8. Identifying the Vulnerability with the Highest CVSS Score</b>
 <p align="center">
 <img src="https://i.imgur.com/tV43yA8.png" height="80%" width="80%" alt="Highest CVSS vulnerability"/>
 
-# <b>9. Validating CVSS Score with NIST NVD</b>
+<b>9. Validating CVSS Score with NIST NVD</b>
 <p align="center">
 <img src="https://i.imgur.com/WL6Gzee.png" height="80%" width="80%" alt="CVSS check with NIST NVD"/>
 
-# <b>10. Remediation Process (Uninstalling the Vulnerable Application)</b>
+<b>10. Remediation Process (Uninstalling the Vulnerable Application)</b>
 <p align="center">
 <img src="https://i.imgur.com/14UVanO.png" height="80%" width="80%" alt="Uninstalling vulnerability"/> 
 <img src="https://i.imgur.com/hy2Y8bX.png" height="80%" width="80%" alt="Uninstallation confirmation"/> 
 <img src="https://i.imgur.com/TTRG58T.png" height="80%" width="80%" alt="Uninstallation process"/>
 
-# <b>11. Confirming the Uninstallation in Action1</b>
+<b>11. Confirming the Uninstallation in Action1</b>
 <p align="center">
 <img src="https://i.imgur.com/igJhnfs.png" height="80%" width="80%" alt="Confirming uninstallation in Action1"/>
 
-# <b>12. Action1 Notification on the Vulnerable System</b>
+<b>12. Action1 Notification on the Vulnerable System</b>
 <p align="center">
 <img src="https://i.imgur.com/eTjXTrO.png" height="80%" width="80%" alt="Action1 notification on vulnerable system"/>
 
-# <b>13. Final Remediation Notification from Action1</b>
+<b>13. Final Remediation Notification from Action1</b>
 <p align="center">
 <img src="https://i.imgur.com/KELq67t.png" height="80%" width="80%" alt="Remediation notification from Action1"/>
 
-# <b>14. Final Endpoint Overview</b>
+<b>14. Final Endpoint Overview</b>
 <p align="center">
 <img src="https://i.imgur.com/UdLmfPu.png" height="80%" width="80%" alt="New endpoint overview"/>
