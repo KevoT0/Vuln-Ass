@@ -6,7 +6,7 @@ This project demonstrates a <b>step-by-step vulnerability assessment and remedia
 This hands-on project highlights expertise in <b>vulnerability management, risk assessment, and endpoint security,</b> essential for securing enterprise environments.
 
 # Technologies & Tools Used
-- <b>Operating Systems:</b> Windows VM, Kali Linux VM
+- <b>Operating Systems:</b> Windows 10 and Kali Linux
 - <b>Security & Audit Tools:</b> Nessus, Action1
 - <b>Virtualization Platform:</b> VirtualBox
 
@@ -21,7 +21,7 @@ This hands-on project highlights expertise in <b>vulnerability management, risk 
 
 <b> 2. Setting Up Scanning Options<b>
 <p align="center">
-<img src="https://i.imgur.com/fe6ukRH.png" height="80%" width="80%" alt="Setting up scanning options"/>
+<img src="https://i.imgur.com/i00qLm7.png" height="80%" width="80%" alt="Setting up scanning options"/>
 
 <b> 3. Confirming Target IP Address for Nessus Scan</b>
 <p align="center">
@@ -51,7 +51,7 @@ This hands-on project highlights expertise in <b>vulnerability management, risk 
 <p align="center">
 <img src="https://i.imgur.com/WL6Gzee.png" height="80%" width="80%" alt="CVSS check with NIST NVD"/>
 
-<b>10. Remediation Process (Uninstalling the Vulnerable Application)</b>
+<b>10. Remediation Process (Patching the Vulnerable Application)</b>
 <p align="center">
 <img src="https://i.imgur.com/14UVanO.png" height="80%" width="80%" alt="Uninstalling vulnerability"/> 
 <img src="https://i.imgur.com/hy2Y8bX.png" height="80%" width="80%" alt="Uninstallation confirmation"/> 
