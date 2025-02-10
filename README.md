@@ -46,21 +46,22 @@ This hands-on project highlights expertise in <b>vulnerability management, risk 
 
 <b>8. Identifying the Vulnerability with the Highest CVSS Score</b>
 <p align="center">
-<img src="https://i.imgur.com/tV43yA8.png" height="80%" width="80%" alt="Highest CVSS vulnerability"/>
+<img src="https://i.imgur.com/H0Elh0u.png" height="80%" width="80%" alt="Highest CVSS vulnerability"/>
 
 <b>9. Validating CVSS Score with NIST NVD</b>
 <p align="center">
 <img src="https://i.imgur.com/WL6Gzee.png" height="80%" width="80%" alt="CVSS check with NIST NVD"/>
-
+<img src="https://i.imgur.com/s0jT9hl.png" height="80%" width="80%" alt="CVSS check with NIST NVD"/>
+  
 <b>10. Remediation Process (Patching the Vulnerable Application)</b>
 <p align="center">
-<img src="https://i.imgur.com/14UVanO.png" height="80%" width="80%" alt="Uninstalling vulnerability"/> 
+<img src="https://i.imgur.com/wGlfzuG.png" height="80%" width="80%" alt="Uninstalling vulnerability"/> 
 <img src="https://i.imgur.com/hy2Y8bX.png" height="80%" width="80%" alt="Uninstallation confirmation"/> 
 <img src="https://i.imgur.com/TTRG58T.png" height="80%" width="80%" alt="Uninstallation process"/>
 
 <b>11. Confirming the Uninstallation in Action1</b>
 <p align="center">
-<img src="https://i.imgur.com/igJhnfs.png" height="80%" width="80%" alt="Confirming uninstallation in Action1"/>
+<img src="https://i.imgur.com/PcRYJpI.png" height="80%" width="80%" alt="Confirming uninstallation in Action1"/>
 
 <b>12. Action1 Notification on the Vulnerable System</b>
 <p align="center">
