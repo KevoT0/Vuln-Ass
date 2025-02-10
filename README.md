@@ -33,7 +33,7 @@ This hands-on project highlights expertise in <b>vulnerability management, risk 
 
 <b> 5. Scan Results </b>
 <p align="center">
-<img src="https://i.imgur.com/ecSsiHE.png" height="80%" width="80%" alt="Scan Results"/>
+<img src="" height="80%" width="80%" alt="Scan Results"/>
 
 <b>6. Target Endpoint Viewed in Action1</b>
 <p align="center">
