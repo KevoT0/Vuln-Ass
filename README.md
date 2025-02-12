@@ -8,10 +8,9 @@ This hands-on project highlights expertise in <b>vulnerability management, risk 
 # Technologies & Tools Used
 - <b>Operating Systems:</b> Windows 10 and Kali Linux
 - <b>Security & Audit Tools:</b> Nessus, Action1
-- <b>Virtualization Platform:</b> VirtualBox
 
 # <b>Environments Used</b>
-- <b>VirtualBox</b>
+- <b>Virtualization</b>
 
 # <b>Program Walkthrough</b>
 
